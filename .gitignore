@@ -1,0 +1,16 @@
+# Ignore dataset files (important for Kaggle datasets)
+dataset/
+
+# Ignore notes folder (your personal working notes)
+Notes/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
